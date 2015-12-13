@@ -1,0 +1,16 @@
+{
+  "name": "test-koa-pg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.1.2",
+    "koa-pg": "^0.24.1",
+    "pg": "^4.4.3"
+  }
+}
